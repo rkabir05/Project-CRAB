@@ -10,6 +10,7 @@
     height: auto;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     align-items: center !important;
+    margin-bottom: 30px;
 }
 
 .header-main {
@@ -211,4 +212,14 @@ a.footer-text {
     margin: auto;
     display: flex;
     justify-content: space-between;
+}
+
+.slider-box {
+    margin: auto;
+    height: auto;
+    width: auto;
+}
+
+.slider-box img {
+    width: 100%;
 }
